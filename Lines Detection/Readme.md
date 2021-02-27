@@ -8,3 +8,5 @@
 - python gradient.py
 	- application de l'algorithme "gradient" sur "autoroute.mp4"
 	- q: quit
+
+Reference: https://www.youtube.com/watch?v=bCElBNENCy4
